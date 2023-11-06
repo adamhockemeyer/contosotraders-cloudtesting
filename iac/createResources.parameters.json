@@ -6,7 +6,7 @@
       "value": "localadmin"
     },
     "deployPrivateEndpoints": {
-      "value": true
+      "value": false
     }
   }
 }
